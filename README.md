@@ -3,6 +3,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning Assembly x86-64
+- 🌱 I’m currently improving C++ skills
 - 👯 I’m looking to collaborate on Python & C/C++ Projects
 - 📫 How to reach me: Gmail=iHapiW@gmail.com
